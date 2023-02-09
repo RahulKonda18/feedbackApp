@@ -1,0 +1,45 @@
+.bg {
+  background-color: pink;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: white;
+  width: 500px;
+  height: 500px;
+  border: 2px solid none;
+  padding: 30px;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  background-color: none;
+  border: none solid none;
+}
+img {
+  width: 50px;
+  height: 50px;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+li {
+  margin: 15px;
+}
